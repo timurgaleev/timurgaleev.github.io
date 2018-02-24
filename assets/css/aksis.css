@@ -31,7 +31,7 @@ body {
 
 .navbar-toggle {
 	position:relative;
-	float: right;
+	float:right;
 	display:block;
 	padding: 9px 10px;
 	background: rgba(255, 255, 255, 0.2);
@@ -62,9 +62,9 @@ body {
 	opacity: 0;  
 }
 .mainmenu .dropdown-menu {
-	position:relative;
 	float: right;
 	top: -14em;
+	right: 0px;
 	font-size: 13px;
 	padding:0;
 	background:none;
@@ -76,9 +76,8 @@ body {
 	opacity:0;
 	-webkit-transition: all .45s;
 	   -moz-transition: all .45s;
-	        transition: all .45s;
-			
-	}
+	        transition: all .45s;			
+}
 .mainmenu .dropdown-menu .active { 
 	font-weight:bold;
 }
