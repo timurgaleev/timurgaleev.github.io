@@ -1,4 +1,3 @@
-* { outline: none !important; }
 html {
 	background:#505D6E url(../images/background.jpg) no-repeat center center fixed; 
 	min-height:100%;
@@ -254,69 +253,69 @@ a:hover, a:active { color:#fff; text-decoration: underline; }
 }
 
 
-/*                   Inverted theme                        */
+/*                   Theme by Aksis                        */
 
-.theme-invert { 	
+.theme-by-aksis { 	
 	color:#222;
 	color:rgba(0,0,0,.8); 
  }
-.theme-invert a { 
+.theme-by-aksis a { 
 	color:#000;
 }
-.theme-invert .btn {
+.theme-by-aksis .btn {
 	color:rgba(255,255,255,.8);
 }
-.theme-invert .btn:hover {
+.theme-by-aksis .btn:hover {
 	color:#fff;
 }
-.theme-invert .btn-link {
+.theme-by-aksis .btn-link {
 	color:rgba(0,0,0,.8);
 }
-.theme-invert .btn-link:hover, .theme-invert .btn-link:focus, .theme-invert .btn-link:active {
+.theme-by-aksis .btn-link:hover, .theme-by-aksis .btn-link:focus, .theme-by-aksis .btn-link:active {
 	color:#000
 }
-.theme-invert .navbar-toggle {
+.theme-by-aksis .navbar-toggle {
 	background: rgba(0, 0, 0, 0.12);
 }
-.theme-invert .navbar-toggle .icon-bar {
+.theme-by-aksis .navbar-toggle .icon-bar {
   background: #333;
 }
-.theme-invert .mainmenu .dropdown-menu a { 
+.theme-by-aksis .mainmenu .dropdown-menu a { 
 	color:#000;
 }
-.theme-invert .mainmenu .dropdown-menu a:hover { 
+.theme-by-aksis .mainmenu .dropdown-menu a:hover { 
 	background:rgba(0,0,0,.1);
 	color:#000;
 }
 
-.theme-invert .title,
-.theme-invert .subtitle,
-.theme-invert .tagline { 
+.theme-by-aksis .title,
+.theme-by-aksis .subtitle,
+.theme-by-aksis .tagline { 
 	color:#222222; 
 }
 
-.theme-invert .btn-default {
+.theme-by-aksis .btn-default {
 	background: rgba(0,0,0,.4);
 }
-.theme-invert .btn-default:hover,
-.theme-invert .btn-default:focus,
-.theme-invert .btn-default:active,
-.theme-invert .btn-default.active {
+.theme-by-aksis .btn-default:hover,
+.theme-by-aksis .btn-default:focus,
+.theme-by-aksis .btn-default:active,
+.theme-by-aksis .btn-default.active {
 	background: rgba(0,0,0,.6);
 	color:#fff;
 }
-.theme-invert .btn-primary {
+.theme-by-aksis .btn-primary {
 	background: rgba(0,0,0,.2);
 }
-.theme-invert .btn-primary:hover,
-.theme-invert .btn-primary:focus,
-.theme-invert .btn-primary:active,
-.theme-invert .btn-primary.active {
+.theme-by-aksis .btn-primary:hover,
+.theme-by-aksis .btn-primary:focus,
+.theme-by-aksis .btn-primary:active,
+.theme-by-aksis .btn-primary.active {
 	background: rgba(0,0,0,.3);
 	color:#fff;
 }
 
-.theme-invert .thumbnail {
+.theme-by-aksis .thumbnail {
 	background-color: rgba(255,255,255,.8);
 }
 .thumbnail .caption {
