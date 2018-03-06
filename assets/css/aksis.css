@@ -144,7 +144,7 @@ a:hover, a:active { color:#fff; text-decoration: underline; }
 	line-height:1em;
 }
 .subtitle { 
-	line-height:.9em;
+	line-height:1.0em;
 	font-size:2.5em;
 	margin-top:0;
 	margin-bottom:40px; 
